@@ -1,0 +1,15 @@
+# Sessões do WhatsApp
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
